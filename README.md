@@ -216,9 +216,12 @@ vercel --prod
     答：网址读取的是远程的文件，只改了本地当然没用！再次执行 vercel 或腾讯云命令，把最新文件传上去。
     
 10. Mac 能否使用这个教程呢？
+
     
     答：当然可以！所有命令和 windows 完全一致！只是 cmd 命令行工具改为用 terminal 终端（按 command + 空格，搜索 terminal）
  
-11. 为什么打开网站白屏了？
+12. 为什么打开网站白屏了？
     
     答：大概率是你修改错误，导致一些文件缺失。。可以试试重新下载代码，再修改，请先确保本地可以运行，再发布！
+
+    11. not my code originally! original github https://t.co/rC4auyZ48P
